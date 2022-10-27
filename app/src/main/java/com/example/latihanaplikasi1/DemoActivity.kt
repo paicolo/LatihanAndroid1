@@ -24,7 +24,7 @@ class DemoActivity : ComponentActivity(){
             Column(modifier = Modifier.fillMaxWidth(),
             horizontalAlignment = Alignment.CenterHorizontally) {
 
-                Image(painter = painterResource(id = R.drawable.),
+                Image(painter = painterResource(id = R.drawable.logo_polban),
                     contentDescription = "Gambar")
                 Surface(
                     modifier = Modifier.fillMaxWidth(),
